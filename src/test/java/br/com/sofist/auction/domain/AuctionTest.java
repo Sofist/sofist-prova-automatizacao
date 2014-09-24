@@ -1,7 +1,10 @@
 package br.com.sofist.auction.domain;
+import org.assertj.core.api.Assertions;
+import org.hamcrest.Matchers;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertThat;
 
 /**
  Test class to Auction
